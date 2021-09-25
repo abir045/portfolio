@@ -10,7 +10,7 @@ import { LeftSection } from "./HeroStyles";
 
 const Hero = () => (
   <>
-    <Section row nopadding>
+    <Section row>
       <LeftSection>
         <SectionTitle main center>
           Hi, I am <br />
