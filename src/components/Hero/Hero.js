@@ -19,6 +19,7 @@ const Hero = () => (
         <SectionText>
           I am a frontend developer with a passion to build dynamic websites
           with the most updated technologies.
+          {/* <img src="/images/Animated-Shape.svg" /> */}
         </SectionText>
         <Button
           onClick={() => window.open("https://github.com/abir045", "_blank")}
