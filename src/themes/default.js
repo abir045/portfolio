@@ -1,16 +1,17 @@
 export default {
   // Temp fonts
   fonts: {
-    title: "Space Grotesk, sans-serif",
-    main: "Space Grotesk, sans-serif",
+    title: "'Almendra', sans-serif",
+    main: "'Oswald', serif",
+    secondary: "Space Grotesk, sans-serif",
   },
   // Colors for layout
   colors: {
-    primary1: "hsl(204,23.8%,95.9%)",
-    // "#000000",
+    primary1: "#000000",
+    // "hsl(204,23.8%,95.9%)",
 
     background1: "#0F1624",
-    // "-webkit-linear-gradient(0deg,  #191d1e 50%,#283139 100%);",
+    text: "#000000",
     // "",  /* Chrome10+,Safari5.1+ */
     accent1: "hsl(34.9,98.6%,72.9%)",
     button: "hsl(205.1,100%,36.1%)",
