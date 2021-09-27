@@ -1,6 +1,6 @@
 import React from "react";
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
-
+import Fade from "react-reveal/Fade";
 import { SocialIcons } from "../Header/HeaderStyles";
 import {
   CompanyContainer,
